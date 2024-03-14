@@ -1,0 +1,6 @@
+nodemon serve
+node server
+node modules
+node files
+mkdir - make directory
+rmdir - remove directory
