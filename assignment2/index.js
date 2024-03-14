@@ -89,3 +89,13 @@
 // console.log(document.querySelector)
 
 // console.log('test')
+
+// const fs = require('fs');
+// fs.writeFile('contact.html', 'How are you', ()=>{
+//    console.log("success")
+// });
+
+// const fs = require('fs')
+// fs.writeFile('service.html','how are you',() => {
+//     console.log('successfully')
+// })
